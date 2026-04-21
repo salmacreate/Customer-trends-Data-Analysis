@@ -21,4 +21,4 @@ patterns and trends, enabling stakeholders to make data-driven decisions.
 and business recommendations. A presentation that visually communicates 
 insights and actionable recommendations to stakeholders. 
 
-<img width="1346" height="735" alt="Screenshot 2026-04-18 151745" src="https://github.com/user-attachments/assets/690cb970-d0ec-475b-a131-0cb96632b861" />
+
