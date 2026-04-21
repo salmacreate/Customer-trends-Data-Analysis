@@ -1,4 +1,4 @@
-# Customer-trends-Data-Analysis
+# Customer trends Data Analysis
 The task is analyzing the company’s consumer behavior dataset to answer the 
 following overarching business question: 
 “How can the company leverage consumer shopping data to identify trends, improve 
